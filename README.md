@@ -41,6 +41,16 @@ This repository hosts the static website for OpenConnect, serving as an informat
 
 8. **Contact Us:**
     - A contact form for inquiries and our contact details. 📧
+  
+## Sitemap : 
+- Home
+- About Us
+    Vision & Mission
+- Team
+- What We Do
+- Social Media
+- Get Involved
+- Contact Us
 
 ## Technical Overview
 
